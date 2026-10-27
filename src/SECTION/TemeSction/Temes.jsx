@@ -21,7 +21,7 @@ function TeamCard() {
           <Col xs={10} sm={6} lg={3}>
             <Card className="place-card border-0 d-flex">
               <Card.Img
-                src="http://qexal.react.themesbrand.com/static/media/1.271c781cd5d41a071889.jpg"
+                src="https://media.istockphoto.com/id/2258596110/photo/portrait-of-confident-mid-adult-businesswoman-against-white-background.jpg?s=612x612&w=0&k=20&c=VL9a5o8CqkismuRZeXs962ztSVabUTj5MZsnq3jQjGY="
                 alt="casrd"
               />
 
@@ -47,7 +47,7 @@ function TeamCard() {
           <Col xs={10} sm={6} lg={3}>
             <Card className="place-card border-0 d-flex">
               <Card.Img
-                src="http://qexal.react.themesbrand.com/static/media/2.590a54cc9867854bbd8e.jpg"
+                src="https://media.istockphoto.com/id/187067980/photo/determined-to-break-records.jpg?s=612x612&w=0&k=20&c=rYmAw2IFR4gs-Ey3PfgoxgzF-es6zp7_Asr6y3aKl9w="
                 alt="casrd2"
               />
 
@@ -74,7 +74,7 @@ function TeamCard() {
           <Col xs={10} sm={6} lg={3}>
             <Card className="place-card border-0 d-flex">
               <Card.Img
-                src="http://qexal.react.themesbrand.com/static/media/3.79a09cf6445efdab72e2.jpg"
+                src="https://media.istockphoto.com/id/2216052190/photo/successful-confident-businesswoman-at-workplace-inside-office-woman-with-crossed-arms-smiling.jpg?s=612x612&w=0&k=20&c=HpGOecei3RJVh-cHDwMiOgubKpKzJy_63RVy-DdLhcA="
                 alt="casr3"
               />
 
@@ -101,7 +101,7 @@ function TeamCard() {
           <Col xs={10} sm={6} lg={3}>
             <Card className="place-card border-0 d-flex">
               <Card.Img
-                src="http://qexal.react.themesbrand.com/static/media/4.e1928138c01816dea9a4.jpg"
+                src="https://media.istockphoto.com/id/1369746033/photo/portrait-of-a-handsome-young-businessman-working-in-office.jpg?s=612x612&w=0&k=20&c=ca1AFfPfzOPtHZdAwa7QtCD1TFDws7PG9t_rqSibdC0="
                 alt="casrd4"
               />
 

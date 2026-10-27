@@ -45,7 +45,7 @@ const HeroSection = () => {
           {/* Right Side: Image */}
           <Col md={6} className="text-center">
             <img
-              src="http://qexal.react.themesbrand.com/static/media/hero-1-img.fc99709bf09049723294.png"
+              src="https://media.istockphoto.com/id/2156387160/photo/hispanic-latin-american-couple-software-engineer-developer-use-computer-work-on-program.jpg?s=612x612&w=0&k=20&c=4MLKAJBBRdiPbhBfIWV4-raQzm5ssvi-Pi4-G8km_dU="
               alt="Sample"
               className="img-fluid rounded"
             />

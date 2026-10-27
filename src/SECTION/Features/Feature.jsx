@@ -29,7 +29,7 @@ const FeaturesSection = () => {
         {/* Right Side: Image */}
         <Col md={6} className="text-center">
           <img
-            src="http://qexal.react.themesbrand.com/static/media/features-1.4a4e437de3430b09d0d7.jpg"
+            src="https://media.istockphoto.com/id/2171683928/photo/photo-of-smart-concentrated-lady-web-designer-write-key-words-download-media-database-upgrade.jpg?s=612x612&w=0&k=20&c=ym5Zu1Y0MybDETe662ok1Q6CKnsFy40jQ4qq5MU1LXc="
             alt="Sample"
             className="img-fluid rounded"
           />
@@ -38,7 +38,7 @@ const FeaturesSection = () => {
         {/* Left Side: Image */}
         <Col md={6} className="text-center " style={{ marginTop: "1rem" }}>
           <img
-            src="http://qexal.react.themesbrand.com/static/media/features-2.ecafb1c20fdd1737ae62.jpg"
+            src="https://media.istockphoto.com/id/1283021201/photo/working-hard-to-maximise-her-brands-long-term-potential.jpg?s=612x612&w=0&k=20&c=Fa_STKbkjYoUEXCuHJjAJKWpb0XPXby9YE_oA3ygj1w="
             alt="Seen"
             className="img-fluid rounded"
           />
