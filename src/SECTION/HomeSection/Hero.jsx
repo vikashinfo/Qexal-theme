@@ -43,11 +43,12 @@ const HeroSection = () => {
           </Col>
 
           {/* Right Side: Image */}
-          <Col md={6} className="text-center">
+          <Col xs={12} md={6} className="text-center object-fit-cover">
             <img
               src="https://media.istockphoto.com/id/2156387160/photo/hispanic-latin-american-couple-software-engineer-developer-use-computer-work-on-program.jpg?s=612x612&w=0&k=20&c=4MLKAJBBRdiPbhBfIWV4-raQzm5ssvi-Pi4-G8km_dU="
               alt="Sample"
               className="img-fluid rounded"
+              style={{ width: "100%", height: "350px" }}
             />
           </Col>
         </Row>
